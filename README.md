@@ -14,7 +14,7 @@
 
 Someday maybe... 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ys25zLolNge9G/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/ys25zLolNge9G/giphy.gif" alt="Nice beach" width="500"/>
 </div>
 
 ---
@@ -23,7 +23,7 @@ Someday maybe...
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,react,ruby,rails" />
+    <img title="RoR" src="https://skillicons.dev/icons?i=html,css,sass,react,ruby,rails" />
   </a>
 </p>
 <p align="center">
